@@ -1,0 +1,15 @@
+.primary-title {
+    font-family: 'Redressed', cursive;
+}
+.bg-ice {
+    background: #0095A9 !important;
+}
+.bg-cream {
+    background: #F6DECC !important;
+}
+.form-control {
+    border: 0px;
+}
+.form-control:focus {
+    box-shadow: 0 0 0 .15rem #007D8E;
+}
